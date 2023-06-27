@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Didact+Gothic&pause=1000&color=8497B0&width=435&lines=Hello+World!+I'm+Luza)](https://git.io/typing-svg)
+
+[![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=luciamariaalvarezcrespo&show_icons=true&theme=transparent&text_color=8497b0&border_color=8497b0&title_color=8497b0&custom_title=My%20GitHub%20stats&hide_rank=false&rank_icon=github&icon_color=8497b0)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **luciamariaalvarezcrespo/luciamariaalvarezcrespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
