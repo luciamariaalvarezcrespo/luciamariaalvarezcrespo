@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Didact+Gothic&pause=1000&color=8497B0&width=435&lines=Hello+World!+I'm+Luza)](https://git.io/typing-svg)
+<p align="center">
+    <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+        <img src="https://readme-typing-svg.demolab.com?font=Didact+Gothic&pause=1000&color=8497B0&width=435&lines=Hello+World!+I'm+Luza" alt="Typing SVG" />
+    </a>
+</p>
 
-[![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=luciamariaalvarezcrespo&show_icons=true&theme=transparent&text_color=8497b0&border_color=8497b0&title_color=8497b0&custom_title=My%20GitHub%20stats&hide_rank=false&rank_icon=github&icon_color=8497b0)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=luciamariaalvarezcrespo&show_icons=true&theme=transparent&hide_border=true&text_color=8497b0&title_color=8497b0&custom_title=My%20GitHub%20stats&hide_rank=false&rank_icon=github&icon_color=8497b0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
