@@ -4,9 +4,14 @@
     </a>
 </p>
 
-[![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=luciamariaalvarezcrespo&show_icons=true&theme=transparent&hide_border=true&text_color=8497b0&title_color=8497b0&custom_title=My%20GitHub%20stats&hide_rank=false&rank_icon=github&icon_color=8497b0)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="center">
+  <a href="https://github.com/luciamariaalvarezcrespo">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=luciamariaalvarezcrespo&show_icons=true&theme=transparent&hide_border=true&text_color=8497b0&title_color=8497b0&custom_title=My%20GitHub%20stats&hide_rank=false&rank_icon=github&icon_color=8497b0" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/luciamariaalvarezcrespo">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamariaalvarezcrespo&layout=compact&hide_progress=true&theme=transparent&hide_border=true&text_color=8497b0&title_color=8497b0" alt="Top Languages">
+  </a>
+</p>
 
 <!--
 **luciamariaalvarezcrespo/luciamariaalvarezcrespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
